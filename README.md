@@ -1,1 +1,3 @@
-# Bike-Sharing-UCI-
+# Bike-Sharing-UCI
+
+El Bike Sharing Dataset es un conjunto de datos multivariado utilizado principalmente para tareas de regresión que contiene registros horarios y diarios del número de bicicletas alquiladas en el sistema Capital Bikeshare entre 2011 y 2012, integrando variables temporales (fecha, hora, estación), condiciones climáticas (temperatura, humedad, viento) y factores contextuales (días festivos, laborales), con un total de 17,389 instancias y 13 variables principales, donde la variable objetivo es el número total de alquileres (cnt); este dataset es ampliamente usado en análisis de series temporales y aprendizaje automático, ya que refleja el comportamiento de movilidad urbana y permite modelar la demanda de bicicletas en función de factores ambientales y temporales.
